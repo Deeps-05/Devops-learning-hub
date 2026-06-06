@@ -26,4 +26,4 @@ devops-learning-hub/
 
 To build strong DevOps fundamentals through hands-on practice.
 
-current version:1.0
+current version:2.0
