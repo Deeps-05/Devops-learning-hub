@@ -25,3 +25,5 @@ devops-learning-hub/
 ## Goal
 
 To build strong DevOps fundamentals through hands-on practice.
+
+current version:1.0
