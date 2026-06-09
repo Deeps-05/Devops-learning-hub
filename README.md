@@ -28,3 +28,4 @@ To build strong DevOps fundamentals through hands-on practice.
 
 current version:2.0
 
+#Added Shell notes 
